@@ -3,7 +3,7 @@ package Leetcode;
 import java.util.HashMap;
 import java.util.Map;
 
-public class minWindow {
+public class MinWindow {
 
     public static void main(String[] args) {
         Solution76 s = new Solution76();
